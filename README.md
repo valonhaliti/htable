@@ -15,4 +15,4 @@ make
 
 After this you see the executables in the current directory.
 
-You can run the server: `./htserver 1000` where 1000 is the hash table size, then `./htclient` (which for the momemnt it does some example requests inside).
+You can run the server: `./htserver 1000` where 1000 is the hash table size, then `./htclient` (which is going to do some example requests inside).
